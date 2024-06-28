@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh8073&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh8073" /> </p>
 
-- 🔭 I’m currently working on **machine learning models and it's related python libraries**
+- 🔭 I’m currently working on **machine learning models, data science and it's related python libraries**
 
-- 👯 I’m looking to collaborate on **android development and machine learning**
+- 👯 I’m looking to collaborate on **android development, data science and machine learning**
 
 - 📫 How to reach me **sarveshjh8073@gmail.com**
 
